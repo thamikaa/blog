@@ -1,0 +1,29 @@
+#box{
+    background-image:linear-gradient(to right,black,rgb(59, 77, 59));
+    
+    }
+#chrome{
+    background-image:linear-gradient(to right,black,rgb(59, 77, 59));
+    
+}
+#web{
+
+    background-image:linear-gradient(to right,black,rgb(59, 77, 59));  
+}
+#site{
+    background-image:linear-gradient(to right,black,rgb(59, 77, 59));
+    
+}
+#loop{
+    background-image:linear-gradient(to right,black,rgb(59, 77, 59));
+    
+}
+#round{
+    height: 5px;
+    width: 7%;
+}
+#round2{
+    height: 5px;
+    width: 7%;
+}
+    
